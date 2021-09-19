@@ -1,1 +1,1 @@
-# khoa_luan
+# Khóa luận tốt nghiệp
