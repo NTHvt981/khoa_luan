@@ -4,3 +4,6 @@
 [submodule "kl_front_end_web"]
 	path = kl_front_end_web
 	url = https://github.com/NTHvt981/kl_front_end_web
+[submodule "kl_back_end"]
+	path = kl_back_end
+	url = https://github.com/NTHvt981/kl_back_end
