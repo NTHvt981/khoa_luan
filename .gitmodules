@@ -1,0 +1,6 @@
+[submodule "kl_front_end_mobile"]
+	path = kl_front_end_mobile
+	url = https://github.com/NTHvt981/UngDungThoiTrangMobile
+[submodule "kl_front_end_web"]
+	path = kl_front_end_web
+	url = https://github.com/NTHvt981/kl_front_end_web
